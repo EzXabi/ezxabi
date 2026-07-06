@@ -28,7 +28,3 @@ I like taking things apart to understand how they work, then putting them back t
 <p align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=ezxabi&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true&show_icons=true" />
 </p>
-
-<p align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ezxabi&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true" />
-</p>
